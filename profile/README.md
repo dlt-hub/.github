@@ -12,7 +12,10 @@ I create blog posts and open source packages mainly about python and data engine
  
 ### GPT3
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+automating bot testing with AI
+scenario/dialogue generation
+manipulating layer for gpt3
+(manipulation --> scenario description)
 
  ---
  
@@ -22,7 +25,10 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 ### Data Pipeline
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+discovery and ingestion of JSON objects into databases (Adrian)
+transforming data into a semantic schema for human usage
+ingesting and structuring complex data in an enterprise environment
+automatically writing a relational data store from a stream of documents
 
  ---
  
@@ -32,7 +38,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 ### Google Analytics
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+use your tools and workflows to analyse your traffic
+no config and no devs, just business. people and marketers
+free solution for event analysis
+first step to data store
+insight, early KPIs and ROIs of your enterprise automation
 
  ---
  
@@ -42,7 +52,13 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 ### MB API 
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+a method to copy MB configuation between instances
+reading data into notebooks
+complex analysis and visualisation via MB API
+relational data for data scientists
+access to enterprise data
+automatic REST API
+"keep your notebook, use the data warehouse"
 
  ---
  
@@ -52,7 +68,12 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 ### Market Research  
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+understanding the market:
+-	teams
+-	what do they use
+- 	lead gen?
+more: classify, analysis / vs Marcin: red ocean
+avantgarde developers? 
 
  ---
  
@@ -62,7 +83,11 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 ### DBT  
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+managing the semantic schema deployment
+you allow your client to customize pipelines to they can use them
+us:90%, 10% them
+without customization it is unusable
+if they fuck it up, it's them
 
  ---
  
@@ -72,7 +97,8 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  
 ### Automaton Berlin  
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+data engineers reinvent the flat tire 50% of the time
+negative engineering is usually not done in data
 
  ---
  
@@ -82,4 +108,4 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ### Discord Democratization  
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+path way for new data renessaince?
