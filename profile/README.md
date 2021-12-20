@@ -1,8 +1,13 @@
 # [![Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
  
-Hey there 👋,
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+If you’ve been fortunate enough to work for a startup company and a large corporate, you’d know that there are big differences between the two. Visiting a startup, you can’t help but noticing the magic in the air and everyone’s bright-eyed passion, ownership, creative thinking, sense of urgency, and speed of execution. Smaller teams have these in abundance, but as companies turn into corporations, they become slower, and people become comfortably numb.
+
+At ScaleVector we think there needs to be a way to keep people focused on doing big things, while maintaining a startup atmosphere. That’s hard when you’re small, and impossible when you’re too big.
+
+So we set out to support a new type of organization. One that tries to borrow from the good of both worlds — maturity and scale from corporations; agility, creativity and raw passion from startups. We think there's a next evolutionary step in the development of organizations, and it has to be invented and applied.
+
+ScaleVector is currently working on the following set of related problems:
 
  ---
  
