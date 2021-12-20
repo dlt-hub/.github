@@ -15,9 +15,9 @@ ScaleVector is currently working on the following set of related problems:
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### A GPT-3 Dialogue Generation Tool
+### Language Prediction Models In Enterprise Software Development 
 
-We built a few prototypes to gain some understanding of language prediction models such as GPT3. In one of the working prototypes we have learned how GPT-3 can be primed to generate dialogue, which context it needs to perform, some of its limits.
+We built a few prototypes to gain some understanding of language prediction models such as GPT3. In one of the working prototypes, a gpt-3 dialogue generation tool, we have learned how GPT-3 can be primed to generate human dialogue, which context it needs to perform well, some of limits of the model.
 This application is now used in software development for exploratory/end to end testing.
 
  ---
@@ -42,29 +42,29 @@ Related problems:
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Google Analytics
+### Early ROI Of Your Enterprise AI Automation
 
-use your tools and workflows to analyse your traffic
-no config and no devs, just business. people and marketers
-free solution for event analysis
-first step to data store
-insight, early KPIs and ROIs of your enterprise automation
+When they start to deploy next-genaration AI automation enterprises often struggle to understand their ROI. From a business perspective they need this ROI to justify further investment and production roll-out.
 
+At ScaleVector we are able to reverse ETL complex data into Google Analytics. This allows our enterprise clients to use their existing tools and workflows. 
+On the client side setup does not require any configuration and developers devs, it can be done by the client's marketing team. We think of Google Analytics as a free solution for complex event analysis, a first step to a data store with further use cases.
+ 
  ---
  
  <p>
   <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### MB API 
+### "Keep your notebook, use the enterprise data warehouse"  
 
-a method to copy MB configuation between instances
-reading data into notebooks
-complex analysis and visualisation via MB API
-relational data for data scientists
-access to enterprise data
-automatic REST API
-"keep your notebook, use the data warehouse"
+Data scientists working on AI problems love to work in notebooks such as Jupyter Notebooks or Google Collab. 
+At the same time it is difficult to access enterprise data with these tools and common methods such as Pandas.  
+
+At ScaleVector we allow our clients to access their enterprise data in their notebooks via the Metabase API. 
+Related problems:
+- complex analysis and visualisation via the Metabase API
+- relational data for data scientists
+- automatic REST API
 
  ---
  
@@ -72,7 +72,9 @@ automatic REST API
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Market Research  
+### Quantifying the level 3 bot market among the Fortune 500  
+
+https://rasa.com/blog/5-levels-of-conversational-ai-2020-update/
 
 understanding the market:
 -	teams
@@ -87,8 +89,9 @@ avantgarde developers?
   <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### DBT  
+### Data models for AI Enterprise Teams  
 
+DBT
 managing the semantic schema deployment
 you allow your client to customize pipelines to they can use them
 us:90%, 10% them
