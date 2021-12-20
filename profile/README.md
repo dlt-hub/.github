@@ -15,12 +15,10 @@ ScaleVector is currently working on the following set of related problems:
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### GPT3
+### A GPT-3 Dialogue Generation Tool
 
-automating bot testing with AI
-scenario/dialogue generation
-manipulating layer for gpt3
-(manipulation --> scenario description)
+We built a few prototypes to gain some understanding of language prediction models such as GPT3. In one of the working prototypes we have learned how GPT-3 can be primed to generate dialogue, which context it needs to perform, some of its limits.
+This application is now used in software development for exploratory/end to end testing.
 
  ---
  
@@ -28,12 +26,15 @@ manipulating layer for gpt3
   <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Data Pipeline
+### Data Pipelines For Complex Data
 
-discovery and ingestion of JSON objects into databases (Adrian)
-transforming data into a semantic schema for human usage
-ingesting and structuring complex data in an enterprise environment
-automatically writing a relational data store from a stream of documents
+How should ingesting and structuring complex data (such as human language data) in an enterprise environment looke like? 
+We have shipped pipelines for AWS and GCP with generic schemas and metrics that enterprises can deploy within days.
+
+Related problems:
+- discovery and ingestion of JSON objects into databases
+- transforming data into a semantic schema for human usage
+- automatically writing a relational data store from a stream of documents
 
  ---
  
