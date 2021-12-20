@@ -1,4 +1,4 @@
-[Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
+# [Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
  
 Hey there 👋,
 
