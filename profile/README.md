@@ -80,7 +80,7 @@ The market for enterprise automation is booming, especially now that enterprises
 But what are the technologies adopted? To assess [level 3 assistant](https://rasa.com/blog/5-levels-of-conversational-ai-2020-update/) adoption among the Fortune 500 we are building:
 - different approaches to scraping the data (Google vs the Linkedin API)
 - experiments on how identify level 3 teams and the technology they use
-- a classifaction and analysis layer
+- a classification and analysis layer
 
  ---
  
@@ -93,8 +93,8 @@ But what are the technologies adopted? To assess [level 3 assistant](https://ras
 Every company has this idealized vision of a AI, data science and analytics team, with full visibility into how the business is doing, how the product gets used, how experiments are performing. The problem with getting there (and this is part of why data teams don’t get hired until later in the company lifecycle) is that the actual, cold hard data that you need to answer important questions typically lies all over the place. And it needs cleaning. 
 
 Data teams write intermediate SQL queries that format source data in a way that makes it easier to answer  high level questions. A few examples of those kinds of transformations:
-- Aggregating all of the different types of product events into one table
-- Re-formatting your Stripe data to show MRR by month
+- Aggregating all of the different types of product events into one table that keeps track of product state.
+- Arranging your Stripe data to calculate MRR by month
 - Grouping website visits into “sessions” for easier analysis
 
 Mature data teams will have hundreds of these kinds of transformations. When you group all of these together, you’ve got what is called a data model.
