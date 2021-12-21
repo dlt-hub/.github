@@ -13,7 +13,7 @@ ScaleVector is currently working on the following set of related problems:
  ---
  
  <p>
-  <img width="250" align='left' width="40px" src="https://github.com/scale-vector/.github/blob/main/circle-1.png">
+  <img width="40" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-1.png">
 </p>
  
 ### Language Prediction Models In Enterprise Software Development 
