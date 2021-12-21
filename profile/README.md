@@ -125,4 +125,14 @@ While a lot of automation happens in the enterprise, we are also curious about o
 
 Based on that insight we running some experiments. Can we apply some of the enterprise-grade automation on gaming platforms such as Discord?  
 
+ ---
+ 
+ <p>
+  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
+</p>
+ 
+### Metabase instance migration pipeline
 
+We work heavily with Metabase and sometimes need to copy entire configurations between instances (such as dashboards, cards, colections)
+
+We created a pipeline that allows easy deployment of templates from a development or demo instance to a production instance of metabase.
