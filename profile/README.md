@@ -1,11 +1,12 @@
-# [![Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
+# [![Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/Scale-Vector-Web-Banner-2.jpg)
  
-
 If you’ve been fortunate enough to work for a startup company and a large corporate, you’d know that there are big differences between the two. Visiting a startup, you can’t help but noticing the magic in the air and everyone’s bright-eyed passion, ownership, creative thinking, sense of urgency, and speed of execution. Smaller teams have these in abundance, but as companies turn into corporations, they become slower, and people become comfortably numb.
 
 At ScaleVector we think there needs to be a way to keep people focused on doing big things, while maintaining a startup atmosphere. That’s hard when you’re small, and impossible when you’re too big.
 
 So we set out to support a new type of organization. One that tries to borrow from the good of both worlds — maturity and scale from corporations; agility, creativity and raw passion from startups. We think there's a next evolutionary step in the development of organizations, and it has to be invented and applied.
+
+Did we mention that we aim to frequently open source chunks of our work? 
 
 ScaleVector is currently working on the following set of related problems:
 
