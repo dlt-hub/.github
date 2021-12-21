@@ -117,6 +117,10 @@ We have built a framework for negative data engineering. We are in the early inn
   <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
 
-### Discord Democratization  
+### Gamers first, again ?   
 
-path way for new data renessaince?
+While a lot of automation happens in the enterprise, we are also curious about other affected industries. From our own experience we know that often it is game developers that are usually the first to deploy new technologies en masse before everyone else. 
+
+Based on that insight we running some experiments. Can we apply some of the enterprise-grade automation on gaming platforms such as Discord?  
+
+
