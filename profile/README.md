@@ -13,7 +13,7 @@ ScaleVector is currently working on the following set of related problems:
  ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-1.png">
 </p>
  
 ### Language Prediction Models In Enterprise Software Development 
@@ -24,7 +24,7 @@ This application is now used in software development for exploratory/end to end 
  ---
  
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-2.png">
 </p>
  
 ### Data Pipelines For Complex Data
@@ -40,7 +40,7 @@ Related problems:
  ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-7.png">
 </p>
  
 ### Early ROI Of Your Enterprise AI Automation
@@ -53,7 +53,7 @@ On the client side setup does not require any configuration and developers devs,
  ---
  
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
 </p>
  
 ### "Keep your notebook, use the enterprise data warehouse"  
@@ -70,7 +70,7 @@ Related problems:
  ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-4.png">
 </p>
  
 ### Quantifying the level 3 assistants market among the Fortune 500  
@@ -84,7 +84,7 @@ But what are the technologies adopted? To assess [level 3 assistant](https://ras
  ---
  
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-3.png">
 </p>
  
 ### Data models for AI Enterprise Teams  
@@ -103,7 +103,7 @@ We help clients by building models of 90% of their data with a tool called dbt. 
  ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-6.png">
 </p>
  
 ### Towards Negative Data Engineering  
@@ -115,7 +115,7 @@ We have built a framework for negative data engineering. We are in the early inn
  ---
  
  <p>
-  <img width="250" align='right' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-5.png">
 </p>
 
 ### Gamers first, again ?   
