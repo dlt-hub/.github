@@ -1,4 +1,4 @@
-# [!Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
+# [![Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
  
 
 If you’ve been fortunate enough to work for a startup company and a large corporate, you’d know that there are big differences between the two. Visiting a startup, you can’t help but noticing the magic in the air and everyone’s bright-eyed passion, ownership, creative thinking, sense of urgency, and speed of execution. Smaller teams have these in abundance, but as companies turn into corporations, they become slower, and people become comfortably numb.
@@ -58,7 +58,7 @@ On the client side setup does not require any configuration and developers devs,
 ### "Keep your notebook, use the enterprise data warehouse"  
 
 Data scientists working on AI problems love to work in notebooks such as Jupyter Notebooks or Google Collab. 
-At the same time it is difficult to access enterprise data with these tools and common methods such as Pandas.  
+At the same time it is difficult for them to access enterprise data with these tools and methods that are common to them such as Pandas.  
 
 At ScaleVector we allow our clients to access their enterprise data in their notebooks via the Metabase API. 
 Related problems:
@@ -72,16 +72,13 @@ Related problems:
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Quantifying the level 3 bot market among the Fortune 500  
+### Quantifying the level 3 assistants market among the Fortune 500  
 
-https://rasa.com/blog/5-levels-of-conversational-ai-2020-update/
-
-understanding the market:
--	teams
--	what do they use
-- 	lead gen?
-more: classify, analysis / vs Marcin: red ocean
-avantgarde developers? 
+The market for enterprise automation is booming, especially now that enterprises have to adapt to remote, work from home and hybrid office mode models. 
+But what are the technologies adopted? To assess [level 3 assistant](https://rasa.com/blog/5-levels-of-conversational-ai-2020-update/) adoption among the Fortune 500 we are building:
+- different approaches to scraping the data (Google vs the Linkedin API)
+- experiments on how identify level 3 teams and the technology they use
+- a classifaction and analysis layer
 
  ---
  
@@ -91,12 +88,16 @@ avantgarde developers?
  
 ### Data models for AI Enterprise Teams  
 
-DBT
-managing the semantic schema deployment
-you allow your client to customize pipelines to they can use them
-us:90%, 10% them
-without customization it is unusable
-if they fuck it up, it's them
+Every company has this idealized vision of a AI, data science and analytics team, with full visibility into how the business is doing, how the product gets used, how experiments are performing. The problem with getting there (and this is part of why data teams don’t get hired until later in the company lifecycle) is that the actual, cold hard data that you need to answer important questions typically lies all over the place. And it needs cleaning. 
+
+Data teams write intermediate SQL queries that format source data in a way that makes it easier to answer  high level questions. A few examples of those kinds of transformations:
+- Aggregating all of the different types of product events into one table
+- Re-formatting your Stripe data to show MRR by month
+- Grouping website visits into “sessions” for easier analysis
+
+Mature data teams will have hundreds of these kinds of transformations. When you group all of these together, you’ve got what is called a data model.
+
+We help clients by building models of 90% of their data with a tool called dbt. dbt is a toolset for building data models. It lets data teams run SQL to build models, add documentation to each table, manage the semantic schema deployment, run tests to ensure data quality, and many other nice things. Without customization enterprise data pipelines are unusable. With our dbt packages it is easy for our clients to customize pipelines of the remaining 10% of data so they can use the pipeline.
 
  ---
  
@@ -104,10 +105,11 @@ if they fuck it up, it's them
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Automaton Berlin  
+### Towards Negative Data Engineering  
 
-data engineers reinvent the flat tire 50% of the time
-negative engineering is usually not done in data
+Companies have an idealized vision of how data engineers work, as well. Observationally data enginners spend 50% of their time fixing broken data pipelines. Negative engineering is usually not done in data. Negative data engineering is when engineers write defensive code to make sure the positive code actually runs. Negative engineering is characterized by needing to anticipate this infinity of possible failures.
+
+We have built a framework for negative data engineering. We are in the early innings of having of some of our data engineering friends testing it. 
 
  ---
  
