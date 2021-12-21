@@ -1,4 +1,4 @@
-# [![Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
+# [!Scale Vector Header Version 1](https://github.com/scale-vector/.github/blob/main/SV-Banner.jpg)
  
 
 If you’ve been fortunate enough to work for a startup company and a large corporate, you’d know that there are big differences between the two. Visiting a startup, you can’t help but noticing the magic in the air and everyone’s bright-eyed passion, ownership, creative thinking, sense of urgency, and speed of execution. Smaller teams have these in abundance, but as companies turn into corporations, they become slower, and people become comfortably numb.
