@@ -29,12 +29,12 @@ This application is now used in software development for exploratory/end to end 
  
 ### Data Pipelines For Complex Data
 
-How should ingesting and structuring complex data (such as human language data) in an enterprise environment looke like? 
+How should ingesting and structuring complex data (such as human language data) in an enterprise environment look like? 
 We have shipped pipelines for AWS and GCP with generic schemas and metrics that enterprises can deploy within days.
 
 Related problems:
 - discovery and ingestion of JSON objects into databases
-- transforming data into a semantic schema for human usage
+- transforming data into a semantic data model for human usage
 - automatically writing a relational data store from a stream of documents
 
  ---
@@ -63,9 +63,10 @@ At the same time it is difficult for them to access enterprise data with these t
 
 At ScaleVector we allow our clients to access their enterprise data in their notebooks via the Metabase API. 
 Related problems:
+
 - complex analysis and visualisation via the Metabase API
-- relational data for data scientists
-- automatic REST API
+- Visual query builder for curated data, so you don't have to write complex SQL
+- API access to a single source of truth
 
  ---
  
@@ -110,7 +111,7 @@ We help clients by building models of 90% of their data with a tool called dbt. 
 
 Companies have an idealized vision of how data engineers work, as well. Observationally data enginners spend 50% of their time fixing broken data pipelines. Negative engineering is usually not done in data. Negative data engineering is when engineers write defensive code to make sure the positive code actually runs. Negative engineering is characterized by needing to anticipate this infinity of possible failures.
 
-We have built a framework for negative data engineering. We are in the early innings of having of some of our data engineering friends testing it. 
+By leveraging past experiences, we created a simple framework for resilient pipelines. We are in the early innings of having of some of our data engineering friends testing it. 
 
  ---
  
