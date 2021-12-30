@@ -126,8 +126,4 @@ While a lot of automation happens in the enterprise, we are also curious about o
 
 Based on that insight we running some experiments. Can we apply some of the enterprise-grade automation on gaming platforms such as Discord?  
 
----
-## Get in touch
-
-If you are an engineer or a company interested in solving any of the problems, get in touch --> matthaus at scalevector.ai 
-
+We created a pipeline that allows easy deployment of templates from a development or demo instance to a production instance of metabase.
