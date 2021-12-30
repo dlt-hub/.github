@@ -125,5 +125,20 @@ By leveraging past experiences, we created a simple framework for resilient pipe
 While a lot of automation happens in the enterprise, we are also curious about other affected industries. From our own experience we know that often it is game developers that are usually the first to deploy new technologies en masse before everyone else. 
 
 Based on that insight we running some experiments. Can we apply some of the enterprise-grade automation on gaming platforms such as Discord?  
+ 
+---
+ <p>
+  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
+</p>
 
-We created a pipeline that allows easy deployment of templates from a development or demo instance to a production instance of metabase.
+### Metabase in the enterprise
+
+We work heavily with Metabase, a popular open source business intelligence tool. The companies we work with often have multiple versions of Metabase (eg development vs production, improvements). 
+
+We created a migration pipeline that allows easy deployment of templates from a development or demo instance to a production instance of Metabase. It allows for copy entire configurations between instances (such as dashboards, cards, colections)
+
+---
+
+## Get in touch
+If you are an engineer or enterprise interested in any of these problems, get in touch ---> matthaus at scalevector.ai
+
