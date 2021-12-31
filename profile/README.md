@@ -14,51 +14,63 @@ ScaleVector is currently working on the following set of related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-1.png">
+  <img width="60" align='left' src="../circle-1.png">
 </p>
  
-### Language Prediction Models In Enterprise Software Development 
+### Language Models For Enterprise Software Development Automation 
 
-We built a few prototypes to gain some understanding of language prediction models such as GPT3. In one of the working prototypes, a gpt-3 dialogue generation tool, we have learned how GPT-3 can be primed to generate human dialogue, which context it needs to perform well, some of limits of the model.
-This application is now used in software development for exploratory/end to end testing.
+Language models like GPT-3 were tried to generate source code but with moderate success. Currently solutions like [Github Copilot](https://copilot.github.com/) which generate code snippets look the most promising. They are, however, far from replacing human developers and allowing end to end automation. 
+
+In Scalevector we think that applying language and other AI models to <u>the testing of software</u> will be much more frutiful and amenable to full automation. 
+
+We built a few prototypes to gain some understanding of the performance of GPT-3 in this context. In one of the working prototypes, a dialogue generation tool, we have learned how to prime GPT-3 to impersonate a human with a desired personality, mood and goals to achieve. We used the prototype in conversations with (Carbon Bot)[https://github.com/RasaHQ/carbon-bot] to discover if GPT-3 can follow complex scenarios, find edge cases and produce novel dialogues not expected by the developers.
+
+The results are promising and such tool can be easily integrating into existing testing pipelines in order to replace humans in end to end/exploratory testing.
 
  ---
  
  <p>
-  <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-2.png">
+  <img width="60" align='right' src="../circle-2.png">
 </p>
  
 ### Data Pipelines For Complex Data
 
 How should ingesting and structuring complex data (such as human language data) in an enterprise environment look like? 
-We have shipped pipelines for AWS and GCP with generic schemas and metrics that enterprises can deploy within days.
+We have shipped pipelines for chat bot conversational data, supporting AWS and GCP with generic schemas and metrics that enterprises can deploy within days.
 
 Related problems:
-- discovery and ingestion of JSON objects into databases
-- transforming data into a semantic data model for human usage
-- automatically writing a relational data store from a stream of documents
-
+- ingestion of event streams in form of JSON objects into databases
+- automatic relational schema inference from nested JSON objects with on the fly migrations
+- transforming event based data into a semantic data model for human usage
+- simple default deployment and shifting all customizations that require Data Engineering resources to DBT packages
  ---
  
  <p>
-  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-7.png">
+  <img width="60" align='left' src="../circle-7.png">
 </p>
  
 ### Early ROI Of Your Enterprise AI Automation
 
-When they start to deploy next-genaration AI automation enterprises often struggle to understand their ROI. From a business perspective they need this ROI to justify further investment and production roll-out.
+When starting to deploy next-genaration AI automation, Enterprises often struggle to understand their ROI. From a business perspective they need this ROI to justify further investment and production roll-out.
 
-At ScaleVector we are able to reverse ETL complex data into Google Analytics. 
- <p>
-  <img align='center' src="https://github.com/scale-vector/.github/blob/main/Google-Analytics-4-Rasa-Funnel.png">
+Our clients already have tools, workflows and teams in place, to understand the performance of their mobile and web apps. Interestingly, platforms they use (like Google Analytics or Segment + Amplitude combo) are shifting towards analytics that can tackle stream of events coming from any source.
+
+At Scalevector we are able to transform and ingest an event stream, produced by any automation process, into Google Analytics 4. This allows our clients to use reporting and advanced exploration features of GA4 for data beyond web and mobile apps. 
+
+<p>
+  <img align='center' src="../Google-Analytics-4-Rasa-Funnel.png">
 </p>
 
-This allows our enterprise clients to use their existing tools and workflows. On the client side setup does not require any configuration and developers devs, it can be done by the client's marketing team. We think of Google Analytics as a free solution for complex event analysis, a first step to a data store with further use cases.
+*A funnel for Transaction Dispute scenario of Financial Bot Demo*
+
+On the client side setup does not require any configuration and development resources. As with web and mobile apps, it can be done by the client's marketing or other non technical team directly in GA4 UI.
+
+We think of Google Analytics as a free solution for complex event analysis, a first step to a data store with further use cases.
  
  ---
  
  <p>
-  <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
+  <img width="60" align='right' src="../circle-8.png">
 </p>
  
 ### "Keep Your Notebook, Use The Enterprise Data Warehouse"  
@@ -76,7 +88,7 @@ Related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-4.png">
+  <img width="60" align='left' src="../circle-4.png">
 </p>
  
 ### Quantifying The Level 3 Assistants Market Among The Fortune 500  
@@ -90,7 +102,7 @@ But what are the technologies adopted? To assess [level 3 assistant](https://ras
  ---
  
  <p>
-  <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-3.png">
+  <img width="60" align='right' src="../circle-3.png">
 </p>
  
 ### Data Models For AI Enterprise Teams  
@@ -109,7 +121,7 @@ We help clients by building models of 90% of their data with a tool called dbt. 
  ---
  
  <p>
-  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-6.png">
+  <img width="60" align='left' src="../circle-6.png">
 </p>
  
 ### Towards Negative Data Engineering  
@@ -121,7 +133,7 @@ By leveraging past experiences, we created a simple framework for resilient pipe
  ---
  
  <p>
-  <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-5.png">
+  <img width="60" align='right' src="../circle-5.png">
 </p>
 
 ### Gamers First, Again ?   
@@ -132,7 +144,7 @@ Based on that insight we running some experiments. Can we apply some of the ente
  
 ---
  <p>
-  <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
+  <img width="60" align='left' src="../circle-8.png">
 </p>
 
 ### Metabase In The Enterprise
