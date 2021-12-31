@@ -50,7 +50,7 @@ When they start to deploy next-genaration AI automation enterprises often strugg
 
 At ScaleVector we are able to reverse ETL complex data into Google Analytics. 
  <p>
-  <img width="300" align='center' src="https://github.com/scale-vector/.github/blob/main/Google-Analytics-4-Rasa-Funnel.png">
+  <img align='center' src="https://github.com/scale-vector/.github/blob/main/Google-Analytics-4-Rasa-Funnel.png">
 </p>
 
 This allows our enterprise clients to use their existing tools and workflows. On the client side setup does not require any configuration and developers devs, it can be done by the client's marketing team. We think of Google Analytics as a free solution for complex event analysis, a first step to a data store with further use cases.
