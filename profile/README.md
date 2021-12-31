@@ -61,7 +61,7 @@ This allows our enterprise clients to use their existing tools and workflows. On
   <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
 </p>
  
-### "Keep your notebook, use the enterprise data warehouse"  
+### "Keep Your Notebook, Use The Enterprise Data Warehouse"  
 
 Data scientists working on AI problems love to work in notebooks such as Jupyter Notebooks or Google Collab. 
 At the same time it is difficult for them to access enterprise data with these tools and methods that are common to them such as Pandas.  
@@ -79,7 +79,7 @@ Related problems:
   <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-4.png">
 </p>
  
-### Quantifying the level 3 assistants market among the Fortune 500  
+### Quantifying The Level 3 Assistants Market Among The Fortune 500  
 
 The market for enterprise automation is booming, especially now that enterprises have to adapt to remote, work from home and hybrid office mode models. 
 But what are the technologies adopted? To assess [level 3 assistant](https://rasa.com/blog/5-levels-of-conversational-ai-2020-update/) adoption among the Fortune 500 we are building:
@@ -93,7 +93,7 @@ But what are the technologies adopted? To assess [level 3 assistant](https://ras
   <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-3.png">
 </p>
  
-### Data models for AI Enterprise Teams  
+### Data Models For AI Enterprise Teams  
 
 Every company has this idealized vision of a AI, data science and analytics team, with full visibility into how the business is doing, how the product gets used, how experiments are performing. The problem with getting there (and this is part of why data teams don’t get hired until later in the company lifecycle) is that the actual, cold hard data that you need to answer important questions typically lies all over the place. And it needs cleaning. 
 
@@ -124,7 +124,7 @@ By leveraging past experiences, we created a simple framework for resilient pipe
   <img width="60" align='right' src="https://github.com/scale-vector/.github/blob/main/circle-5.png">
 </p>
 
-### Gamers first, again ?   
+### Gamers First, Again ?   
 
 While a lot of automation happens in the enterprise, we are also curious about other affected industries. From our own experience we know that often it is game developers that are usually the first to deploy new technologies en masse before everyone else. 
 
@@ -135,7 +135,7 @@ Based on that insight we running some experiments. Can we apply some of the ente
   <img width="60" align='left' src="https://github.com/scale-vector/.github/blob/main/circle-8.png">
 </p>
 
-### Metabase in the enterprise
+### Metabase In The Enterprise
 
 We work heavily with Metabase, a popular open source business intelligence tool. The companies we work with often have multiple versions of Metabase (eg development vs production, improvements). 
 
