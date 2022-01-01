@@ -14,7 +14,7 @@ ScaleVector is currently working on the following set of related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="../circle-1.png">
+  <img width="60" align='left' src="circle-1.png">
 </p>
  
 ### Language Models For Enterprise Software Development Automation 
