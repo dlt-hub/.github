@@ -30,7 +30,7 @@ The results are promising and such tool can be easily integrating into existing 
  ---
  
  <p>
-  <img width="60" align='right' src="../circle-2.png">
+  <img width="60" align='right' src="circle-2.png">
 </p>
  
 ### Data Pipelines For Complex Data
@@ -46,7 +46,7 @@ Related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="../circle-7.png">
+  <img width="60" align='left' src="circle-7.png">
 </p>
  
 ### Early ROI Of Your Enterprise AI Automation
@@ -58,7 +58,7 @@ Our clients already have tools, workflows and teams in place, to understand the 
 At Scalevector we are able to transform and ingest an event stream, produced by any automation process, into Google Analytics 4. This allows our clients to use reporting and advanced exploration features of GA4 for data beyond web and mobile apps. 
 
 <p>
-  <img align='center' src="../Google-Analytics-4-Rasa-Funnel.png">
+  <img align='center' src="Google-Analytics-4-Rasa-Funnel.png">
 </p>
 
 *A funnel for Transaction Dispute scenario of Financial Bot Demo*
@@ -70,7 +70,7 @@ We think of Google Analytics as a free solution for complex event analysis, a fi
  ---
  
  <p>
-  <img width="60" align='right' src="../circle-8.png">
+  <img width="60" align='right' src="circle-8.png">
 </p>
  
 ### "Keep Your Notebook, Use The Enterprise Data Warehouse"  
@@ -88,7 +88,7 @@ Related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="../circle-4.png">
+  <img width="60" align='left' src="circle-4.png">
 </p>
  
 ### Quantifying The Level 3 Assistants Market Among The Fortune 500  
@@ -102,7 +102,7 @@ But what are the technologies adopted? To assess [level 3 assistant](https://ras
  ---
  
  <p>
-  <img width="60" align='right' src="../circle-3.png">
+  <img width="60" align='right' src="circle-3.png">
 </p>
  
 ### Data Models For AI Enterprise Teams  
@@ -121,7 +121,7 @@ We help clients by building models of 90% of their data with a tool called dbt. 
  ---
  
  <p>
-  <img width="60" align='left' src="../circle-6.png">
+  <img width="60" align='left' src="circle-6.png">
 </p>
  
 ### Towards Negative Data Engineering  
@@ -133,7 +133,7 @@ By leveraging past experiences, we created a simple framework for resilient pipe
  ---
  
  <p>
-  <img width="60" align='right' src="../circle-5.png">
+  <img width="60" align='right' src="circle-5.png">
 </p>
 
 ### Gamers First, Again ?   
@@ -144,7 +144,7 @@ Based on that insight we running some experiments. Can we apply some of the ente
  
 ---
  <p>
-  <img width="60" align='left' src="../circle-8.png">
+  <img width="60" align='left' src="circle-8.png">
 </p>
 
 ### Metabase In The Enterprise
