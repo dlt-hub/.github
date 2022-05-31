@@ -14,22 +14,6 @@ ScaleVector is currently working on the following set of related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="circle-1.png">
-</p>
- 
-### Language Models For Enterprise Software Development Automation 
-
-Language models like GPT-3 were tried to generate source code but with moderate success. Currently solutions like [Github Copilot](https://copilot.github.com/) which generate code snippets look the most promising. They are, however, far from replacing human developers and allowing end to end automation. 
-
-In Scalevector we think that applying language and other AI models to <u>the testing of software</u> will be much more frutiful and amenable to full automation. 
-
-We built a few prototypes to gain some understanding of the performance of GPT-3 in this context. In one of the working prototypes, a dialogue generation tool, we have learned how to prime GPT-3 to impersonate a human with a desired personality, mood and goals to achieve. We used the prototype in conversations with (Carbon Bot)[https://github.com/RasaHQ/carbon-bot] to discover if GPT-3 can follow complex scenarios, find edge cases and produce novel dialogues not expected by the developers.
-
-The results are promising and such tool can be easily integrating into existing testing pipelines in order to replace humans in end to end/exploratory testing.
-
- ---
- 
- <p>
   <img width="60" align='right' src="circle-2.png">
 </p>
  
@@ -88,20 +72,6 @@ Related problems:
  ---
  
  <p>
-  <img width="60" align='left' src="circle-4.png">
-</p>
- 
-### Quantifying The Level 3 Assistants Market Among The Fortune 500  
-
-The market for enterprise automation is booming, especially now that enterprises have to adapt to remote, work from home and hybrid office mode models. 
-But what are the technologies adopted? To assess [level 3 assistant](https://rasa.com/blog/5-levels-of-conversational-ai-2020-update/) adoption among the Fortune 500 we are building:
-- different approaches to scraping the data (Google vs the Linkedin API)
-- experiments on how identify level 3 teams and the technology they use
-- a classification and analysis layer
-
- ---
- 
- <p>
   <img width="60" align='right' src="circle-3.png">
 </p>
  
@@ -121,18 +91,6 @@ We help clients by building models of 90% of their data with a tool called dbt. 
  ---
  
  <p>
-  <img width="60" align='left' src="circle-6.png">
-</p>
- 
-### Towards Negative Data Engineering  
-
-Companies have an idealized vision of how data engineers work, as well. Observationally data enginners spend 50% of their time fixing broken data pipelines. Negative engineering is usually not done in data. Negative data engineering is when engineers write defensive code to make sure the positive code actually runs. Negative engineering is characterized by needing to anticipate this infinity of possible failures.
-
-By leveraging past experiences, we created a simple framework for resilient pipelines. We are in the early innings of having of some of our data engineering friends testing it. 
-
- ---
- 
- <p>
   <img width="60" align='right' src="circle-5.png">
 </p>
 
@@ -140,18 +98,13 @@ By leveraging past experiences, we created a simple framework for resilient pipe
 
 While a lot of automation happens in the enterprise, we are also curious about other affected industries. From our own experience we know that often it is game developers that are usually the first to deploy new technologies en masse before everyone else. 
 
-Based on that insight we running some experiments. Can we apply some of the enterprise-grade automation on gaming platforms such as Discord?  
+Can we apply some of the enterprise-grade automation on gaming platforms such as Discord and tie it to data sources such as smart contracts?  
  
 ---
  <p>
   <img width="60" align='left' src="circle-8.png">
 </p>
 
-### Metabase In The Enterprise
-
-We work heavily with Metabase, a popular open source business intelligence tool. The companies we work with often have multiple versions of Metabase (eg development vs production, improvements). 
-
-We created a migration pipeline that allows easy deployment of templates from a development or demo instance to a production instance of Metabase. It allows for copy entire configurations between instances (such as dashboards, cards, colections)
 
 ---
 
