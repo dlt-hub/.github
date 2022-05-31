@@ -1,5 +1,7 @@
 ## Who we are
-At ScaleVector we are dedicated to solving hard data engineering and AI problems in the enterprise. Along the way, we’ll be building novel technology and will share our learnings with the community. ScaleVector is currently working on the following set of related problems:
+At ScaleVector we are dedicated to solving hard data engineering and AI problems. Along the way, we are building novel technology and will share our learnings with the community. 
+
+ScaleVector is currently working on the following set of related problems:
 
  ---
  
@@ -27,15 +29,13 @@ Related problems:
 
 When starting to deploy next-genaration AI automation, Enterprises often struggle to understand their ROI. From a business perspective they need this ROI to justify further investment and production roll-out.
 
-Our clients already have tools, workflows and teams in place to understand the performance of their mobile and web apps. Interestingly, platforms they use (like Google Analytics or Segment + Amplitude combo) are shifting towards analytics that can tackle stream of events coming from any source.
-
-At Scalevector we are able to transform and ingest an event stream, produced by any automation process, into Google Analytics 4. This allows our clients to use reporting and advanced exploration features of GA4 for data beyond web and mobile apps. 
+Our clients already have tools, workflows and teams in place to understand the performance of their mobile and web apps. At Scalevector we are able to transform and ingest an event stream, produced by any automation process, into Google Analytics 4. This allows our clients to use reporting and advanced exploration features of GA4 for data beyond web and mobile apps. 
 
 <p>
   <img align='center' src="Google-Analytics-4-Rasa-Funnel.png">
 </p>
 
-*A funnel for Transaction Dispute scenario of Financial Bot Demo*
+*A funnel for a transaction dispute scenario in a financial bot demo*
 
 On the client side setup does not require any configuration and development resources. As with web and mobile apps, it can be done by the client's marketing or other non technical team directly in GA4 UI.
 
