@@ -1,15 +1,5 @@
 ## Who we are
-At ScaleVector we are dedicated to solving hard data engineering and AI problems in the enterprise. Along the way, we’ll be building novel technology and will share our learnings with the community.
-
-## Why
-
-If you’ve been fortunate enough to work for a startup company and a large corporate, you’d know that there are big differences between the two. Visiting a startup, you can’t help but noticing the magic in the air and everyone’s bright-eyed passion, ownership, creative thinking, sense of urgency, and speed of execution. Smaller teams have these in abundance, but as companies turn into corporations, they become slower, and people become comfortably numb.
-
-At ScaleVector we think there needs to be a way to keep people focused on doing big things, while maintaining a startup atmosphere. That’s hard when you’re small, and impossible when you’re too big.
-
-So we set out to support a new type of enterprise, one that tries to borrow from the good of both worlds — maturity and scale from corporations; agility, creativity and raw passion from startups. We think there's a next evolutionary step in the development of organizations, and it has to be invented and applied. We think companies will rely more and more on AI to run their routine and complex tasks better and cheaper than us humans.
-
-ScaleVector is currently working on the following set of related problems:
+At ScaleVector we are dedicated to solving hard data engineering and AI problems in the enterprise. Along the way, we’ll be building novel technology and will share our learnings with the community. ScaleVector is currently working on the following set of related problems:
 
  ---
  
@@ -37,7 +27,7 @@ Related problems:
 
 When starting to deploy next-genaration AI automation, Enterprises often struggle to understand their ROI. From a business perspective they need this ROI to justify further investment and production roll-out.
 
-Our clients already have tools, workflows and teams in place, to understand the performance of their mobile and web apps. Interestingly, platforms they use (like Google Analytics or Segment + Amplitude combo) are shifting towards analytics that can tackle stream of events coming from any source.
+Our clients already have tools, workflows and teams in place to understand the performance of their mobile and web apps. Interestingly, platforms they use (like Google Analytics or Segment + Amplitude combo) are shifting towards analytics that can tackle stream of events coming from any source.
 
 At Scalevector we are able to transform and ingest an event stream, produced by any automation process, into Google Analytics 4. This allows our clients to use reporting and advanced exploration features of GA4 for data beyond web and mobile apps. 
 
@@ -108,6 +98,11 @@ Can we apply some of the enterprise-grade automation on gaming platforms such as
 
 ---
 
-## Get in touch
-If you are an engineer or enterprise interested in any of these problems, get in touch ---> matthaus at scalevector.ai
+## Why
+
+If you’ve been fortunate enough to work for a startup company and a large corporate, you’d know that there are big differences between the two. Visiting a startup, you can’t help but noticing the magic in the air and everyone’s bright-eyed passion, ownership, creative thinking, sense of urgency, and speed of execution. Smaller teams have these in abundance, but as companies turn into corporations, they become slower, and people become comfortably numb.
+
+At ScaleVector we think there needs to be a way to keep people focused on doing big things, while maintaining a startup atmosphere. That’s hard when you’re small, and impossible when you’re too big.
+
+So we set out to support a new type of enterprise, one that tries to borrow from the good of both worlds — maturity and scale from corporations; agility, creativity and raw passion from startups. We think there's a next evolutionary step in the development of organizations, and it has to be invented and applied. We think companies will rely more and more on AI to run their routine and complex tasks better and cheaper than us humans.
 
