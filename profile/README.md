@@ -1,10 +1,10 @@
 Hi 👋
 
-🥅 We are dedicated to solving hard data engineering and AI problems at ScaleVector. This means building novel technology that is used in production and sharing what we learn along the way.
+🧙 **dltHub** is the creator of [data load tool (dlt)](https://github.com/dlt-hub/dlt)
 
-🎡 
-Currently, data source loading frameworks only cater to classic developers or are closed source. At the same time, there are millions of Python developers who want to bring their work into production but need to do ETL.
+🛠️ data load tool (dlt) is a simple, open source Python library that makes data loading easy:
+- Automatically turn the JSON returned by any API into a live dataset stored wherever you want it
+- `pip install python-dlt` and then include `import dlt` to use it in your Python loading script
+- The `dlt` library is licensed under the Apache License 2.0, so you can use it for free forever.
 
-🚀 We are creating Data Load Tool (DLT), which aims to
-- set an open source source standard for building/loading data sources all in pure Python
-- grow a community with thousands of sources and snippets shared by users 
+📚 Read more about it on the [dlt Docs](dlthub.com/docs)
