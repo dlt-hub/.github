@@ -7,4 +7,4 @@ Hi 👋
 - `pip install python-dlt` and then include `import dlt` to use it in your Python loading script
 - The **dlt** library is licensed under the Apache License 2.0, so you can use it for free forever
 
-📚 Read more about it on the [dlt Docs](dlthub.com/docs)
+📚 Read more about it on the [dlt Docs](https://dlthub.com/docs)
